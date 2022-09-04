@@ -1,0 +1,50 @@
+{
+  "projects": [
+    {
+      "title": "Mobile Way",
+      "tooltip": "Mobile App",
+      "description": "Thisis an app for help people navigation and buying different products using Ibeacon technology.",
+      "client": "Lead Solutions",
+      "images": [
+        " "
+       
+      ],
+      "backgroundImage": "https://www.upwork.com/att/download/portfolio/persons/uid/1350194700656459776/profile/projects/files/2cee7c8d-1c37-46d0-8c38-38c036e40f8d",
+      "image": "https://www.upwork.com/att/download/portfolio/persons/uid/1350194700656459776/profile/projects/files/2cee7c8d-1c37-46d0-8c38-38c036e40f8d",
+      "links": [
+        {
+          "name": "Website",
+          "url": "https://www.upwork.com/freelancers/~012a9c5d80093db80b?p=1488456441743814656"
+        },
+        {
+          "name": "Android App",
+          "url": "https://play.google.com/store/games"
+        },
+        {
+          "name": "iOS App",
+          "url": "https://apps.apple.com/"
+        }
+      ]
+    },
+
+
+    {
+      "title": "Lessons Agency",
+      "tooltip": "Ecommerce Website",
+      "description": "This is an website for our agency called Lessons Agency. This will provide the developers, designers, project manages other people who can help your buisness by create software for you.",
+      "client": "Lessons Agency",
+      "images": [
+        ""
+      ],
+      "backgroundImage": "https://www.upwork.com/att/download/portfolio/persons/uid/1350194700656459776/profile/projects/files/1b5da0e2-bae4-4b15-8164-ed2d3bd9e0ee",
+      "image": "https://www.upwork.com/att/download/portfolio/persons/uid/1350194700656459776/profile/projects/files/1b5da0e2-bae4-4b15-8164-ed2d3bd9e0ee",
+      "links": [
+        {
+          "name": "Website",
+          "url": "https://www.upwork.com/freelancers/~012a9c5d80093db80b?p=1488456441743814656"
+        }
+      ]
+    }
+
+  ]
+}
