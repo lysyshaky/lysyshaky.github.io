@@ -20,11 +20,9 @@ const Home = () => {
             <h3 className="name">YURII LYSYSYHAK</h3>
             <p className="job">
               I'm UX/UI Designer and Full stack developer with over four years of professional
-              experience design prototyping and developing WEB & Mobile applications using
+              experience in design prototyping. I'm able to developing WEB & Mobile applications using
               Javascript, Kotlin, and Dart. Able to architect, and enhance highly
-              scalable systems, by leveraging best-in-class tools. Exercises
-              judgment in determining and recommending designs based on business
-              objectives, timelines, and resource constraints.
+              scalable systems, by leveraging best-in-class tools. 
             </p>
 
             {/* END JOB */}

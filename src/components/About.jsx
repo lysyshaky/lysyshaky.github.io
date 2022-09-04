@@ -26,7 +26,7 @@ const About = () => {
           <div className="description_inner">
             <div className="left">
               <p>
-              I’m a creative, reliable and detailed WEB&Mobile Developer and UX/UI Designer with 4 years of experience, who can work independently without too much detailed instructions. I like to take care about user experience and build good relationship with customers. Specialization in the Figma, Photoshop, Kotlin, Futter/Dart, JavaScript, React, React Native programming languages. 
+              I’m a creative and reliable WEB & Mobile Developer and UX/UI Designer with 4 years of experience, who can work independently. I like to take care about user experience and build good relationship with customers. Specialization in the Figma, Photoshop, Kotlin, Futter/Dart, JavaScript, React, React Native programming languages. 
               </p>
               <div className="tokyo_tm_button">
                 <button onClick={toggleModal} className="ib-button">
@@ -56,7 +56,13 @@ const About = () => {
                     <span>Freelance:</span>Available
                   </p>
                 </li>
+                <li>
+                  <p>
+                    <span>Languages:</span> English, Ukrainian
+                  </p>
+                </li>
               </ul>
+              
               {/* END UL */}
             </div>
             {/* END RIGHT */}
