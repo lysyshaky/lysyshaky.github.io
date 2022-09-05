@@ -44,7 +44,110 @@
           "url": "https://www.upwork.com/freelancers/~012a9c5d80093db80b?p=1488456441743814656"
         }
       ]
-    }
+    },
 
+    {
+      "title": "Alvi Beauty UserApp",
+      "tooltip": "Beauty App",
+      "description": "Mobile application for booking beauty salon services, where you can get bonuses and find beauty salons by their address. ",
+      "client": "Alvi Beauty",
+      "images": [
+        ""
+      ],
+      "backgroundImage": "https://www.upwork.com/att/download/portfolio/persons/uid/1350194700656459776/profile/projects/files/93a3e509-7bb2-4bcf-b7d8-8673f8fd4ceb",
+      "image": "https://www.upwork.com/att/download/portfolio/persons/uid/1350194700656459776/profile/projects/files/93a3e509-7bb2-4bcf-b7d8-8673f8fd4ceb",
+      "links": [
+        {
+          "name": "Website",
+          "url": "https://www.upwork.com/freelancers/~012a9c5d80093db80b?p=1488456441743814656"
+        },
+        {
+          "name": "Android App",
+          "url": "https://play.google.com/store/games"
+        },
+        {
+          "name": "iOS App",
+          "url": "https://apps.apple.com/"
+        }
+      ]
+    },
+
+    {
+      "title": "Alvi Beauty SaloneApp",
+      "tooltip": "Beauty App",
+      "description": "Alvi Beauty Salone app for managing financial reports, calendars, and masters in Salone.",
+      "client": "Alvi Beauty",
+      "images": [
+        ""
+      ],
+      "backgroundImage": "https://www.upwork.com/att/download/portfolio/persons/uid/1350194700656459776/profile/projects/files/f6b6b872-544e-4681-90a9-0434564bb621",
+      "image": "https://www.upwork.com/att/download/portfolio/persons/uid/1350194700656459776/profile/projects/files/f6b6b872-544e-4681-90a9-0434564bb621",
+      "links": [
+        {
+          "name": "Website",
+          "url": "https://www.upwork.com/freelancers/~012a9c5d80093db80b?p=1488456441743814656"
+        },
+        {
+          "name": "Android App",
+          "url": "https://play.google.com/store/games"
+        },
+        {
+          "name": "iOS App",
+          "url": "https://apps.apple.com/"
+        }
+      ]
+    },
+
+    {
+      "title": "TipMe",
+      "tooltip": "Support artists app",
+      "description": "TipMe app to support and donate funds to street musicians and artists using iBecon signals.",
+      "client": "TipMe",
+      "images": [
+        ""
+      ],
+      "backgroundImage": "https://www.upwork.com/att/download/portfolio/persons/uid/1350194700656459776/profile/projects/files/ffc1876c-96ec-4cc7-b871-3d834e6c408d",
+      "image": "https://www.upwork.com/att/download/portfolio/persons/uid/1350194700656459776/profile/projects/files/ffc1876c-96ec-4cc7-b871-3d834e6c408d",
+      "links": [
+        {
+          "name": "Website",
+          "url": "https://www.upwork.com/freelancers/~012a9c5d80093db80b?p=1488456441743814656"
+        },
+        {
+          "name": "Android App",
+          "url": "https://play.google.com/store/games"
+        },
+        {
+          "name": "iOS App",
+          "url": "https://apps.apple.com/"
+        }
+      ]
+    },
+
+    {
+      "title": "Foodel",
+      "tooltip": "Delivery Food",
+      "description": "Mobile app for choose restoraund different kinds of food and delivery it",
+      "client": "TipMe",
+      "images": [
+        ""
+      ],
+      "backgroundImage": "https://www.upwork.com/att/download/portfolio/persons/uid/1350194700656459776/profile/projects/files/57b0a622-1d53-4b18-8899-534e8e824ce4",
+      "image": "https://www.upwork.com/att/download/portfolio/persons/uid/1350194700656459776/profile/projects/files/57b0a622-1d53-4b18-8899-534e8e824ce4",
+      "links": [
+        {
+          "name": "Website",
+          "url": "https://www.upwork.com/freelancers/~012a9c5d80093db80b?p=1488456441743814656"
+        },
+        {
+          "name": "Android App",
+          "url": "https://play.google.com/store/games"
+        },
+        {
+          "name": "iOS App",
+          "url": "https://apps.apple.com/"
+        }
+      ]
+    }
   ]
 }
