@@ -1,11 +1,10 @@
 import React, { useState } from "react";
-import { Tab, Tabs, TabList, TabPanel } from "react-tabs";
 import { FaMoon, FaSun } from "react-icons/fa";
-import { Link } from "react-router-dom";
-import Home from "../components/Home";
+import { Tab, TabList, TabPanel, Tabs } from "react-tabs";
 import About from "../components/About";
-import Portfolio from "../components/PortfolioCreative";
 import Contact from "../components/Contact";
+import Home from "../components/Home";
+import Portfolio from "../components/PortfolioCreative";
 
 const HomeLight = () => {
   const [isDark, setIsDark] = useState(false);
@@ -50,11 +49,12 @@ const HomeLight = () => {
           {/* START LEFT MENU CONTENT */}
           <div className="leftpart">
             <div className="leftpart_inner">
-              <div className="logo">
-                <Link className="navbar-brand" to="/">
-                  <img src="/assets/img/logo/dark.png" alt="brand" />
-                </Link>
-              </div>
+            <div className="logo">
+  <a href="https://lyqx.webflow.io/" target="_blank" rel="noopener noreferrer">
+    <img src="/assets/img/logo/dark.png" alt="brand" />
+  </a>
+</div>
+
               {/* END LOGO */}
 
               <div className="menu">
